@@ -1,4 +1,4 @@
-# Electricity Generation Analysis and Prediction in India
+# Electricity Generation Analysis and Prediction in India - DVC Project
 <p align="center">
   <img width="700" height="400" src="https://cdn-images-1.medium.com/max/1600/1*60gs-SFYyooZZBxatuoNJw.jpeg">
 </p>
